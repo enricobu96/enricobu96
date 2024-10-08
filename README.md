@@ -1,18 +1,16 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/enricobu96/enricobu96/master/logo.svg" alt="Enrico Buratto" />
-</h1>
-
 ## Heyo! 👋
 
 My name is Enrico, and I'm a developer.
 
+- 📊 Data Scientist @ Reply
 - 🤖 Machine Learning enthusiast
-- 🎓 Computer Science MSc student at [University of Padua](https://www.unipd.it/en/)
-- 🗺️ Temporarily located at [University of Helsinki](https://www.helsinki.fi/en)
+- 🎓 Former Computer Science MSc student @ [University of Padua](https://www.unipd.it/en/)
+- 🗺️ Former Computer Science MSc student @ [University of Helsinki](https://www.helsinki.fi/en)
 
 ## Skills
 
-- 🐍 Python w/ Scikit-learn, Pandas, SciPy, pyTorch
+- 🐍 Python w/ Scikit-learn, Pandas, SciPy, pyTorch, Tensorflow
+- ⛁ Oracle SQL and DMBS
 - ©️ C++, Qt Framework
 - 🌐 TypeScript, JavaScript, Node.JS
 - 📜 HTML, CSS, LaTeX
@@ -20,14 +18,15 @@ My name is Enrico, and I'm a developer.
 ## Interests
 
 - 🤖 Machine Learning, Deep Learning
-- 📈 Data Science
+- ✨ Computer Vision, LLMs, Generative AI
+- 📈 Data Science & Data Engineering
 - 👨‍💻️ Programming in general
-
 
 ## Top projects
 
+- [Studying and improving Motion Indeterminacy Diffusion for Stochastic Trajectory Prediction](https://github.com/enricobu96/myMID)
 - [Smart Assistant Interaction through Visual Gesture Recognition using a Kinect Sensor](https://github.com/enricobu96/vcs-project)
-- [CrownSouls](https://github.com/enricobu96/pao-crownsouls)
+- [Is a number even or odd? Let's find out with a neural network!](https://github.com/enricobu96/is_even_dl)
 - [Predire in Grafana](https://github.com/CoffeeCodeSWE/swe-predire-in-grafana)
 
 ## Contact
@@ -35,4 +34,4 @@ My name is Enrico, and I'm a developer.
 - e-mail: [enrico.buratto96@gmail.com](mailto:enrico.buratto96@gmail.com)
 - Linkedin: [Enrico Buratto](https://www.linkedin.com/in/enrico-buratto-04104b151/)
 - Telegram: [@darkmicrowave](https://t.me/darkmicrowave)
-- Personal website (work in progress): [here](https://enricobu96.github.io/)
+- Personal website: [here](https://enricobu96.github.io/)
