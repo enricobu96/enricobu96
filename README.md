@@ -1,15 +1,15 @@
-## Heyo! 👋
+## Hi!
 
 My name is Enrico, and I'm a developer.
 
-- 📊 Data Scientist @ Reply
-- 🤖 Machine Learning enthusiast
+- 📊 Generative AI Specialist @ [Liquid Reply}(https://www.reply.com/liquid-reply/it)
+- 🤖 Machine Learning and AI enthusiast
 - 🎓 Former Computer Science MSc student @ [University of Padua](https://www.unipd.it/en/)
 - 🗺️ Former Computer Science MSc student @ [University of Helsinki](https://www.helsinki.fi/en)
 
 ## Skills
 
-- 🐍 Python w/ Scikit-learn, Pandas, SciPy, pyTorch, Tensorflow
+- 🐍 Python w/ Scikit-learn, Pandas, SciPy, pyTorch, Tensorflow, LangChain, LangGraph
 - ⛁ Oracle SQL and DMBS
 - ©️ C++, Qt Framework
 - 🌐 TypeScript, JavaScript, Node.JS
@@ -17,10 +17,10 @@ My name is Enrico, and I'm a developer.
 
 ## Interests
 
-- 🤖 Machine Learning, Deep Learning
-- ✨ Computer Vision, LLMs, Generative AI
+- ✨ Machine Learning, Deep Learning, Computer Vision, LLMs, Generative AI
 - 📈 Data Science & Data Engineering
 - 👨‍💻️ Programming in general
+- 🐧 Linux Enthusiast
 
 ## Top projects
 
