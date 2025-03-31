@@ -2,7 +2,7 @@
 
 My name is Enrico, and I'm a developer.
 
-- 📊 Generative AI Specialist @ [Liquid Reply}(https://www.reply.com/liquid-reply/it)
+- 📊 Generative AI Specialist @ [Liquid Reply](https://www.reply.com/liquid-reply/it)
 - 🤖 Machine Learning and AI enthusiast
 - 🎓 Former Computer Science MSc student @ [University of Padua](https://www.unipd.it/en/)
 - 🗺️ Former Computer Science MSc student @ [University of Helsinki](https://www.helsinki.fi/en)
