@@ -13,14 +13,13 @@ My name is Enrico, and I'm a developer.
 - ⛁ Oracle SQL and DMBS
 - ©️ C++, Qt Framework
 - 🌐 TypeScript, JavaScript, Node.JS
-- 📜 HTML, CSS, LaTeX
 
 ## Interests
 
 - ✨ Machine Learning, Deep Learning, Computer Vision, LLMs, Generative AI
 - 📈 Data Science & Data Engineering
 - 👨‍💻️ Programming in general
-- 🐧 Linux Enthusiast
+- 🐧 Linux
 
 ## Top projects
 
@@ -28,6 +27,14 @@ My name is Enrico, and I'm a developer.
 - [Smart Assistant Interaction through Visual Gesture Recognition using a Kinect Sensor](https://github.com/enricobu96/vcs-project)
 - [Is a number even or odd? Let's find out with a neural network!](https://github.com/enricobu96/is_even_dl)
 - [Predire in Grafana](https://github.com/CoffeeCodeSWE/swe-predire-in-grafana)
+
+## Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricobu96&layout=compact&hide=Jupyter%20Notebook&theme=dracula">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=enricobu96&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true" width="400">
+</p>
 
 ## Contact
 
