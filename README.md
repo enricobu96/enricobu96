@@ -33,7 +33,7 @@ My name is Enrico, and I'm a developer.
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricobu96&layout=compact&hide=Jupyter%20Notebook&theme=dracula">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=enricobu96&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=enricobu96&show_icons=true&&theme=dracula&include_all_commits=true" width="400">
 </p>
 
 ## Contact
